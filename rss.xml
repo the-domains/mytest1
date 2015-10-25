@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[mytest1]]></title>
         <description><![CDATA[mytest1]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mytest1/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 23 Oct 2015 11:03:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 25 Oct 2015 08:58:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mytest1/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Audi Quatro]]></title>
+            <description><![CDATA[<article><h1>Audi Quatro</h1><img src="https://farm4.staticflickr.com/3864/14846373999_9b3454f70b_b.jpg"></article>]]></description>
+            <link>https://www.flickr.com/photos/gordonplant/14846373999/in/album-72157646843054422/</link>
+            <guid isPermaLink="false">9f36bc42-7eda-4e2a-8580-841d461db2a4</guid>
+            <pubDate>Sun, 25 Oct 2015 08:58:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A test post]]></title>
             <description><![CDATA[<article><h1>A test post</h1><p>This is my first post on the grid</p></article>]]></description>
-            <link>undefineda-test-post/index.html</link>
+            <link>https://thegrid.ai/mytest1/a-test-post/index.html</link>
             <guid isPermaLink="false">8003cdf2-4309-45ad-a73b-0d2ab5bc085c</guid>
             <pubDate>Fri, 23 Oct 2015 11:03:08 GMT</pubDate>
         </item>
