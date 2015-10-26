@@ -1,5 +1,7 @@
-favicon: null
-name: mytest1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -10,26 +12,29 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 0.07508748932741582
-  brandStrength: 0.3274202076718211
-  rhythmicContrast: 0.01825707568787038
-  brandColors: []
   lightness: 0.4848353760316968
-typography_spectrum: 0.0408337248954922
+  brandStrength: 1
+  brandColors:
+    - '#050D0C'
+    - '#6E8801'
+    - '#E9E96E'
+    - '#FFF2C6'
+    - '#FF9154'
+  rhythmicContrast: 0.01825707568787038
+typography_spectrum: 0
 cta:
   bucket: null
   version: null
   domain: null
 layout_spectrum: 1
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+name: mytest1
