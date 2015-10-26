@@ -4,8 +4,15 @@
         <description><![CDATA[mytest1]]></description>
         <link>https://thegrid.ai/mytest1/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 26 Oct 2015 09:10:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2015 12:54:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mytest1/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[In to the sun]]></title>
+            <description><![CDATA[<article><h1>In to the sun</h1><p>Driving from Palo Alto to San Francisco</p><img src="https://exposure.imgix.net/production/posts/96364/cover-photo/cover-1426427336.jpg?fit=crop&w=500&h=500&q=60&fm=pjpg&auto=format"></article>]]></description>
+            <link>https://thegrid.ai/mytest1/in-to-the-sun/index.html</link>
+            <guid isPermaLink="false">849c1ce5-4bd0-4b8b-bc76-b1a58675fe75</guid>
+            <pubDate>Mon, 26 Oct 2015 12:52:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[DSC_2113]]></title>
             <description><![CDATA[<article><h1>DSC_2113</h1><img src="https://farm6.staticflickr.com/5589/14846545687_88ea69fa9e_b.jpg"></article>]]></description>
